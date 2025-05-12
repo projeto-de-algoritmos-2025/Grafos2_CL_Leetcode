@@ -52,3 +52,5 @@ Therefore, we return 14.
 - Não há arestas repetidas.
 
 ## Submissões
+
+![image](https://github.com/user-attachments/assets/60cf67cc-5509-4d84-8780-a401b1e617ae)
