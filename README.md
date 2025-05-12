@@ -29,7 +29,7 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 | 1 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%201) | Média | Lucas Ribeiro de Souza | Conta o número de pares de nós que não são alcançáveis um do outro em um grafo não direcionado. |
 | 2 | [1584. Min Cost to Connect All Points](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%202) | Média | João Víctor Costa Andrade | encontrar o custo mínimo para conectar todos os pontos. |
 | 3 | [2290. Minimum Obstacle Removal to Reach Corner](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%203) | Difícil | Lucas Ribeiro de Souza | Encontra o caminho com o menor número de obstáculos em uma grade binária. |
-| 4 | [2203. Minimum Weighted Subgraph With the Required Paths](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%204) | Difícil | João Víctor Costa Andrade |  |
+| 4 | [2203. Minimum Weighted Subgraph With the Required Paths](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%204) | Difícil | João Víctor Costa Andrade | Encontrar o peso mínimo de um subgrafo do grafo através de um conjunto de arestas deste subgrafo |
 
 ## Disciplina
 
