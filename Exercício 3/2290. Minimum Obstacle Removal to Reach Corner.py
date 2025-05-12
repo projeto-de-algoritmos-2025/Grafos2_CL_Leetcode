@@ -3,21 +3,20 @@ from typing import List
 
 class Solution:
     """
-    Conta o número de pares de nós que não são alcançáveis um do outro em um grafo não direcionado.
+    Encontra o caminho com o menor número de obstáculos em uma grade binária.
     
     Parâmetros:
-    - n (int): Número total de nós no grafo.
-    - edges (List[List[int]]): Lista de arestas, onde cada aresta é representada como [a, b],
-      indicando que existe uma aresta não direcionada entre os nós 'a' e 'b'.
+    - grid (List[List[int]]): Uma matriz binária onde '0' representa uma célula livre e '1' representa um obstáculo.
     
     Retorna:
-    - int: O número de pares de nós que não são alcançáveis um do outro.
+    - int: O menor número de obstáculos que precisam ser removidos para alcançar o canto inferior direito da grade a partir do canto superior esquerdo.
     
     Descrição:
-    O grafo é considerado como uma coleção de componentes conectados. Para cada componente,
-    calculamos o número de pares de nós dentro dele e o número de pares não alcançáveis
-    entre componentes distintos. O resultado é a diferença entre o número total de pares
-    possíveis e o número de pares alcançáveis.
+    O algoritmo utiliza um algoritmo de caminho mínimo com prioridade, similar ao Dijkstra, usando uma fila de prioridade (min-heap). 
+    Cada célula na grade é considerada um nó, e as arestas têm peso 0 para células livres e 1 para obstáculos.
+    A busca começa na posição (0, 0) e termina na posição (m-1, n-1). A cada movimento válido (cima, baixo, esquerda, direita), 
+    o custo é atualizado se o novo caminho for mais barato. A célula de destino é retornada assim que alcançada com o menor custo.
+    Se não houver caminho possível, retorna -1.
     """
     def minimumObstacles(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
