@@ -28,7 +28,7 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 | :--: | -- | :--: | -- | -- |
 | 1 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%201) | Média | Lucas Ribeiro de Souza | Este método conta o número de pares de nós que não são alcançáveis um do outro em um grafo não direcionado. O grafo é representado por um número de nós 'n' e uma lista de arestas 'edges', onde cada aresta conecta dois nós. |
 | 2 | [1584. Min Cost to Connect All Points](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%202) | Média | João Víctor Costa Andrade |  |
-| 3 | [2360. Longest Cycle in a Graph](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%203) | Difícil | Lucas Ribeiro de Souza |  |
+| 3 | [2360. Longest Cycle in a Graph](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%203) | Difícil | Lucas Ribeiro de Souza | Encontra o comprimento do ciclo mais longo em um grafo direcionado. |
 | 4 | [2203. Minimum Weighted Subgraph With the Required Paths](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%204) | Difícil | João Víctor Costa Andrade |  |
 
 ## Disciplina
