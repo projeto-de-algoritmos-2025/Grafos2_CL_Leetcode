@@ -10,7 +10,7 @@ A questão foi resolvida no LeetCode, onde você pode conferir o enunciado compl
 
 A resolução dessa questão foi gravada e você pode assistir ao vídeo para ver o passo a passo da solução.
 
-[Clique aqui para assistir]()
+[Clique aqui para assistir](https://youtu.be/x45eKyT45RI)
 
 ## Dificuldade
 
