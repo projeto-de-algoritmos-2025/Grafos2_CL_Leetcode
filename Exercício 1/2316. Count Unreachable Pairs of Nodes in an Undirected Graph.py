@@ -1,6 +1,15 @@
 class Solution:
-    # Este método conta o número de pares de nós que não são alcançáveis um do outro em um grafo não direcionado. O grafo é representado por um número de nós 'n' e uma lista de arestas 'edges', onde cada aresta conecta dois nós.
-    def countPairs(self, n: int, edges: List[List[int]]) -> int:
+    """
+    Conta o número de pares de nós que não são alcançáveis um do outro em um grafo não direcionado.
+
+    Parâmetros:
+    - n: Número total de nós no grafo.
+    - edges: Lista de arestas, onde cada aresta é representada como [a, b], indicando
+      que existe uma aresta não direcionada entre os nós 'a' e 'b'.
+
+    Retorna:
+    - O número de pares de nós que não são alcançáveis um do outro.
+    """    def countPairs(self, n: int, edges: List[List[int]]) -> int:
         from collections import defaultdict
 
         # Criação do grafo utilizando um dicionário de listas (lista de adjacência)
