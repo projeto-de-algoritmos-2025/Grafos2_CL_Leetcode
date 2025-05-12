@@ -30,7 +30,7 @@ Retorna o número de pares de nós diferentes que são inalcançáveis ​​ent
 
 >**Input**: n = 3, edges = [[0,1],[0,2],[1,2]]<br>
 >**Output**: 0<br>
->**Explanation**: There are no pairs of nodes that are unreachable from each other. Therefore, we return 0.
+>**Explicação**: Não há pares de nós inacessíveis entre si. Portanto, retornamos 0.
 
 ### Exemplo 2
 
@@ -38,7 +38,7 @@ Retorna o número de pares de nós diferentes que são inalcançáveis ​​ent
 
 >**Input**: n = 7, edges = [[0,2],[0,5],[2,4],[1,6],[5,4]]<br>
 >**Output**: 14<br>
->**Explanation**: There are 14 pairs of nodes that are unreachable from each other:
+>**Explicação**: Existem 14 pares de nós que são inacessíveis entre si:
 [[0,1],[0,3],[0,6],[1,2],[1,3],[1,4],[1,5],[2,3],[2,6],[3,4],[3,5],[3,6],[4,6],[5,6]].
 Therefore, we return 14.
 
@@ -49,6 +49,6 @@ Therefore, we return 14.
 - `edges[i].length == 2`
 - `0 <= ai, bi < n`
 - `ai != bi`
-- There are no repeated edges.
+- Não há arestas repetidas.
 
 ## Submissões
