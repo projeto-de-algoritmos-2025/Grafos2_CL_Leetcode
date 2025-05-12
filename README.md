@@ -27,9 +27,9 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 | Exercício | Enunciado | Dificuldade | Autor da Resolução | Observações |
 | :--: | -- | :--: | -- | -- |
 | 1 |  | Média | Lucas Ribeiro de Souza |  |
-| 2 |  | Média | João Víctor Costa Andrade |  |
+| 2 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Média | João Víctor Costa Andrade |  |
 | 3 |  | Difícil | Lucas Ribeiro de Souza |  |
-| 4 |  | Difícil | João Víctor Costa Andrade |  |
+| 4 | [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/?envType=problem-list-v2&envId=graph&difficulty=HARD) | Difícil | João Víctor Costa Andrade |  |
 
 ## Disciplina
 
