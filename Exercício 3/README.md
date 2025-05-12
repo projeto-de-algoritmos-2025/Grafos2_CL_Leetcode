@@ -18,38 +18,41 @@ Difícil
 
 ## Enunciado
 
-Você recebe um grafo direcionado de `n` nós numerados de `0` a `n - 1`, onde cada nó tem no máximo uma aresta de saída.
+Você recebe uma grade de matriz de inteiros bidimensional com índice 0 e tamanho m x n. Cada célula possui um de dois valores:
 
-O grafo é representado por um dado array indexado em 0 `arestas` de tamanho `n`, indicando que há uma aresta direcionada do nó `i` ao nó `arestas[i]`. Se não houver aresta de saída do nó `i`, então `arestas[i] == -1`.
+0 representa uma célula vazia,
+1 representa um obstáculo que pode ser removido.
+Você pode mover para cima, para baixo, para a esquerda ou para a direita a partir de e para uma célula vazia.
 
-Retorna o comprimento do ciclo mais longo do grafo. Se não houver ciclo, retorna `-1`.
-
-Um ciclo é um caminho que começa e termina no mesmo nó.
+Retorne o número mínimo de obstáculos a serem removidos para que você possa mover do canto superior esquerdo (0, 0) para o canto inferior direito (m - 1, n - 1).
 
 ## Exemplos
 
 ### Exemplo 1
 
-![image](https://github.com/user-attachments/assets/526df431-2999-4562-a934-8f66566de10a)
+![image](https://github.com/user-attachments/assets/3348a823-a412-44e7-b294-84a165dbacf7)
 
->**Input**: edges = [3,3,4,2,3]<br>
->**Output**: 3<br>
->**Explicação**: O ciclo mais longo no gráfico é o ciclo: 2 -> 4 -> 3 -> 2.
-O comprimento deste ciclo é 3, então 3 é retornado.
+>**Input**: grid = [[0,1,1],[1,1,0],[1,1,0]]<br>
+>**Output**: 2<br>
+>**Explicação**: Podemos remover os obstáculos em (0, 1) e (0, 2) para criar um caminho de (0, 0) a (2, 2).
+Pode-se demonstrar que precisamos remover pelo menos 2 obstáculos, então retornamos 2.
+Observe que pode haver outras maneiras de remover 2 obstáculos para criar um caminho.
 
 ### Exemplo 2
 
-![image](https://github.com/user-attachments/assets/ff285e0a-ad66-4750-ba60-fe1310be85c8)
+![image](https://github.com/user-attachments/assets/0fa07aaa-1d84-4de8-8c31-c7654d6be384)
 
->**Input**: edges = [2,-1,3,1]<br>
->**Output**: -1<br>
->**Explicação**: Não há ciclos neste gráfico.
+>**Input**: grid = [[0,1,0,0,0],[0,1,0,1,0],[0,0,0,1,0]<br>
+>**Output**: 0<br>
+>**Explicação**: Podemos passar de (0, 0) para (2, 4) sem remover nenhum obstáculo, então retornamos 0.
 
 ## Restrições
 
-- `n == edges.length`
-- `2 <= n <= 105`
-- `-1 <= edges[i] < n`
-- `edges[i] != i`
+- m == grid.length
+- n == grid[i].length
+- 1 <= m, n <= 105
+- 2 <= m * n <= 105
+- grid[i][j] is either 0 or 1.
+- grid[0][0] == grid[m - 1][n - 1] == 0
 
 ## Submissões
