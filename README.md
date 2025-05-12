@@ -26,10 +26,10 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 
 | Exercício | Enunciado | Dificuldade | Autor da Resolução | Observações |
 | :--: | -- | :--: | -- | -- |
-| 1 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/blob/main/Exerc%C3%ADcio%201/2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.py) | Média | Lucas Ribeiro de Souza |  |
-| 2 | [1584. Min Cost to Connect All Points](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/blob/main/Exerc%C3%ADcio%202/1584.py) | Média | João Víctor Costa Andrade |  |
-| 3 | [2360. Longest Cycle in a Graph](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/blob/main/Exerc%C3%ADcio%203/2360.%20Longest%20Cycle%20in%20a%20Graph.py) | Difícil | Lucas Ribeiro de Souza |  |
-| 4 | [2203. Minimum Weighted Subgraph With the Required Paths](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/blob/main/Exerc%C3%ADcio%204/2203.py) | Difícil | João Víctor Costa Andrade |  |
+| 1 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%201) | Média | Lucas Ribeiro de Souza |  |
+| 2 | [1584. Min Cost to Connect All Points](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%202) | Média | João Víctor Costa Andrade |  |
+| 3 | [2360. Longest Cycle in a Graph](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%203) | Difícil | Lucas Ribeiro de Souza |  |
+| 4 | [2203. Minimum Weighted Subgraph With the Required Paths](https://github.com/projeto-de-algoritmos-2025/Grafos2_CL_Leetcode/tree/main/Exerc%C3%ADcio%204) | Difícil | João Víctor Costa Andrade |  |
 
 ## Disciplina
 
