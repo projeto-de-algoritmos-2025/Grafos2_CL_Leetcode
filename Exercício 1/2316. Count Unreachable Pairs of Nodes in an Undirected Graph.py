@@ -9,7 +9,8 @@ class Solution:
 
     Retorna:
     - O número de pares de nós que não são alcançáveis um do outro.
-    """    def countPairs(self, n: int, edges: List[List[int]]) -> int:
+    """    
+    def countPairs(self, n: int, edges: List[List[int]]) -> int:
         from collections import defaultdict
 
         # Criação do grafo utilizando um dicionário de listas (lista de adjacência)
