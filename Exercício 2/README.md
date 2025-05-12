@@ -29,3 +29,6 @@ Retorne o custo mínimo para conectar todos os pontos. Todos os pontos são cone
 
 
 ## Submissões:
+![image](https://github.com/user-attachments/assets/deaaa5ab-f1b2-4c43-a2f1-01c8b5fa176a)
+
+![image](https://github.com/user-attachments/assets/d6ced853-ce85-4976-88ab-67bb63d3e25e)
