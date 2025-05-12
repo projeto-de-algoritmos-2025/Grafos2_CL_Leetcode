@@ -26,10 +26,10 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 
 | Exercício | Enunciado | Dificuldade | Autor da Resolução | Observações |
 | :--: | -- | :--: | -- | -- |
-| 1 |  | Média | Lucas Ribeiro de Souza |  |
-| 2 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Média | João Víctor Costa Andrade |  |
-| 3 |  | Difícil | Lucas Ribeiro de Souza |  |
-| 4 | [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/?envType=problem-list-v2&envId=graph&difficulty=HARD) | Difícil | João Víctor Costa Andrade |  |
+| 1 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph]() | Média | Lucas Ribeiro de Souza |  |
+| 2 | [1584. Min Cost to Connect All Points]() | Média | João Víctor Costa Andrade |  |
+| 3 | [2360. Longest Cycle in a Graph]() | Difícil | Lucas Ribeiro de Souza |  |
+| 4 | [2203. Minimum Weighted Subgraph With the Required Paths]() | Difícil | João Víctor Costa Andrade |  |
 
 ## Disciplina
 
