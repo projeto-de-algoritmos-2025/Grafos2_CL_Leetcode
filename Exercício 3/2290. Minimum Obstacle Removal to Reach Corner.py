@@ -2,6 +2,23 @@ from heapq import heappop, heappush
 from typing import List
 
 class Solution:
+    """
+    Conta o número de pares de nós que não são alcançáveis um do outro em um grafo não direcionado.
+    
+    Parâmetros:
+    - n (int): Número total de nós no grafo.
+    - edges (List[List[int]]): Lista de arestas, onde cada aresta é representada como [a, b],
+      indicando que existe uma aresta não direcionada entre os nós 'a' e 'b'.
+    
+    Retorna:
+    - int: O número de pares de nós que não são alcançáveis um do outro.
+    
+    Descrição:
+    O grafo é considerado como uma coleção de componentes conectados. Para cada componente,
+    calculamos o número de pares de nós dentro dele e o número de pares não alcançáveis
+    entre componentes distintos. O resultado é a diferença entre o número total de pares
+    possíveis e o número de pares alcançáveis.
+    """
     def minimumObstacles(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
         # Movimentos: cima, baixo, esquerda, direita
