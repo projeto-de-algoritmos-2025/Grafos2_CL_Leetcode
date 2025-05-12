@@ -1,10 +1,10 @@
-# (Nome do Exercício) 
+# 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
 
 ## Questão
 
 A questão foi resolvida no LeetCode, onde você pode conferir o enunciado completo.
 
-[Ver questão no LeetCode](https://leetcode.com/problems/is-graph-bipartite/)    
+[Ver questão no LeetCode](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/?envType=problem-list-v2&envId=2cthq20h)    
 
 ## Gravação
 
