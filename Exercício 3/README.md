@@ -56,3 +56,5 @@ Observe que pode haver outras maneiras de remover 2 obstáculos para criar um ca
 - grid[0][0] == grid[m - 1][n - 1] == 0
 
 ## Submissões
+
+![image](https://github.com/user-attachments/assets/d4c04792-715a-4ced-8c32-de773f193d96)
