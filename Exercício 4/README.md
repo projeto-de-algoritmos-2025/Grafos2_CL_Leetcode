@@ -34,3 +34,7 @@ Um subgrafo é um grafo cujos vértices e arestas são subconjuntos do grafo ori
 
 
 ## Submissões:
+
+![image](https://github.com/user-attachments/assets/41d537d8-1bcf-4c9f-812b-42283abf5a4d)
+
+![image](https://github.com/user-attachments/assets/822edf2e-289d-45dc-88c0-27acaaf02196)
