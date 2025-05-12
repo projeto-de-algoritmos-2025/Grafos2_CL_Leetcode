@@ -1,10 +1,10 @@
-# (Nome do Exercício) 
+# 2360. Longest Cycle in a Graph
 
 ## Questão
 
 A questão foi resolvida no LeetCode, onde você pode conferir o enunciado completo.
 
-[Ver questão no LeetCode](https://leetcode.com/problems/is-graph-bipartite/)  
+[Ver questão no LeetCode](https://leetcode.com/problems/longest-cycle-in-a-graph/description/?envType=problem-list-v2&envId=2cthq20h)  
 
 ## Gravação
 
