@@ -1,10 +1,10 @@
-# 2360. Longest Cycle in a Graph
+# 2290. Minimum Obstacle Removal to Reach Corner
 
 ## Questão
 
 A questão foi resolvida no LeetCode, onde você pode conferir o enunciado completo.
 
-[Ver questão no LeetCode](https://leetcode.com/problems/longest-cycle-in-a-graph/description/?envType=problem-list-v2&envId=2cthq20h)  
+[Ver questão no LeetCode](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/?envType=problem-list-v2&envId=2cthq20h)  
 
 ## Gravação
 
